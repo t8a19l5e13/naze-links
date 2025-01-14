@@ -96,12 +96,12 @@ video {
 
 }
 
-@media (max-width: 610px ), (max-height: 500px) {
+@media (max-width: 610px ) {
 
     .button {
         position: absolute;
-        width: 180px;
-        height: 97px;
+        width: 130px;
+        height: 37px;
         background-size:cover;
         pointer-events: auto;
     }
