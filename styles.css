@@ -100,8 +100,8 @@ video {
 
     .button {
         position: absolute;
-        width: 130px;
-        height: 37px;
+        width: 180px;
+        height: 97px;
         background-size:cover;
         pointer-events: auto;
     }
